@@ -24,15 +24,7 @@ Select Import
 
 Select Projects from Git(with smart import) -> Next
 
-Select Clone URI -> Next
-
-In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git -> Next
-
-Now in Local Destination
-
-proceed -> Next
-
-     Now only select VotingApp\MySpring_Boot_aa23v_VotingApp_Final
+Now only select VotingApp\MySpring_Boot_aa23v_VotingApp_Final
      -> Finish
 If everything goes right Project will get successfully imported
 
